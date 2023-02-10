@@ -1,0 +1,383 @@
+[
+    {
+        "id": 0,
+        "name": "Dpelis",
+        "work": "personal",
+        "img": "images/works/personal/dpelis.jpg",
+        "url": "https://alexisarz.github.io/Dpelis/",
+        "tools": {
+                "html":true,
+                "css": true,
+                "bootstrap": false,
+                "react": true,
+                "js": true,
+                "php": false,
+                "smarty": false
+            },
+        "desc": "Interfaz de sitio de streaming. Posee listado de películas y series filtradas a través de condicionales desde una DB json interna. Incluye un registro con validación de campos vía Js."
+        
+    },
+    
+    {
+        "id": 1,
+        "name": "Dress Code",
+        "work": "personal",
+        "img": "images/works/personal/dresscode.jpg",
+        "url": "https://alexisarz.github.io/DressCode/",
+        "tools": {
+                "html":true,
+                "css": true,
+                "bootstrap": true,
+                "react": true,
+                "js": true,
+                "php": false,
+                "smarty": false
+            },
+        "desc": "Interfaz de e-commerce. Posee un pequeño paginado con ReactRouter, filtrando los productos traídos desde la DB json. Incluye pestañas para cada producto mediante la utilizacion de IDs."
+        
+    },
+
+    {
+        "id": 2,
+        "name": "Tic Tac Toe",
+        "work": "personal",
+        "img": "images/works/personal/tictactoe.jpg",
+        "url": "https://alexisarz.github.io/Tic-Tac-Toe-Game/",
+        "tools": {
+                "html":true,
+                "css": true,
+                "bootstrap": false,
+                "react": false,
+                "js": true,
+                "php": false,
+                "smarty": false
+            },
+        "desc": "Juego de tateti creado integramente con HTML, CSS y Js. Es exclusivo para dos jugadores"
+        
+    },
+
+    {
+        "id": 3,
+        "name": "Task App",
+        "work": "personal",
+        "img": "images/works/personal/task-app.jpg",
+        "url": "https://alexisarz.github.io/Task-App/",
+        "tools": {
+                "html":true,
+                "css": true,
+                "bootstrap": true,
+                "react": true,
+                "js": true,
+                "php": false,
+                "smarty": false
+            },
+        "desc": "Interfaz de aplicación web para agenda de tareas. Incluye API del clima actual y pronóstico extendido."
+        
+    },
+
+    {
+        "id": 4,
+        "name": "Foster Viajes",
+        "work": "profesional",
+        "img": "images/works/profesional/foster.jpg",
+        "url": "https://www.fosterviajes.tur.ar/",
+        "tools": {
+                "html":true,
+                "css": true,
+                "bootstrap": true,
+                "react": false,
+                "js": true,
+                "php": true,
+                "smarty": true
+            },
+        "desc": "Sitio de agencia de viajes. Incluye buscadores de aéreos, autos, booking, cruceros, paquetes y circuitos. Intregrado con API whatsapp y Recaptcha V3."
+        
+    },
+
+    {
+        "id": 5,
+        "name": "Alexandria Viajes",
+        "work": "profesional",
+        "img": "images/works/profesional/alexa.jpg",
+        "url": "https://alexandriaviajes.com/",
+        "tools": {
+                "html":true,
+                "css": true,
+                "bootstrap": true,
+                "react": false,
+                "js": true,
+                "php": true,
+                "smarty": true
+            },
+        "desc": "Sitio de agencia de viajes. Incluye buscadores de aéreos, autos, booking, asistencia, paquetes y circuitos. Intregrado con API whatsapp y Recaptcha V3."
+        
+    },
+
+    {
+        "id": 7,
+        "name": "Grupo La Moneda",
+        "work": "profesional",
+        "img": "images/works/profesional/moneda.jpg",
+        "url": "https://www.lamoneda.com.ec/index.php",
+        "tools": {
+                "html":true,
+                "css": true,
+                "bootstrap": true,
+                "react": false,
+                "js": true,
+                "php": true,
+                "smarty": true
+            },
+        "desc": "Sitio de agencia de viajes. Incluye buscadores de aéreos, paquetes, cruceros y excursiones. Intregrado con API whatsapp y Recaptcha V3."
+        
+    },
+
+    {
+        "id": 16,
+        "name": "HN Corporate",
+        "work": "profesional",
+        "img": "images/works/profesional/hn.jpg",
+        "url": "https://hncorporate.com/index.php",
+        "tools": {
+                "html":true,
+                "css": true,
+                "bootstrap": true,
+                "react": false,
+                "js": true,
+                "php": true,
+                "smarty": true
+            },
+        "desc": "Sitio de reservación booking. Incluye sistema de login e interfaz de usuario."
+        
+    },
+
+    {
+        "id": 8,
+        "name": "Club de Viajeros",
+        "work": "profesional",
+        "img": "images/works/profesional/club.jpg",
+        "url": "https://www.clubdeviajeros.travel/",
+        "tools": {
+                "html":true,
+                "css": true,
+                "bootstrap": true,
+                "react": false,
+                "js": true,
+                "php": true,
+                "smarty": true
+            },
+        "desc": "Prehome de agencia de viajes"
+        
+    },
+
+    {
+        "id": 9,
+        "name": "Vía Roly",
+        "work": "profesional",
+        "img": "images/works/profesional/roly.jpg",
+        "url": "https://viaroly.com/index.php",
+        "tools": {
+                "html":true,
+                "css": true,
+                "bootstrap": true,
+                "react": false,
+                "js": true,
+                "php": true,
+                "smarty": true
+            },
+        "desc": "Sitio de agencia de viajes con buscador de paquetes nacionales e internacionales. Intregrado con API whatsapp."
+        
+    },
+
+    {
+        "id": 19,
+        "name": "Antares Viajes",
+        "work": "profesional",
+        "img": "images/works/profesional/antares.jpg",
+        "url": "https://antaresviajes.tur.ar/index.php",
+        "tools": {
+                "html":true,
+                "css": true,
+                "bootstrap": true,
+                "react": false,
+                "js": true,
+                "php": true,
+                "smarty": true
+            },
+        "desc": "Sitio de agencia de viajes con integración de buscadores de aereos, autos, paquetes, booking, circuitos y asistencia."
+        
+    },
+
+    {
+        "id": 10,
+        "name": "Dr Cool",
+        "work": "profesional",
+        "img": "images/works/profesional/drcool.jpg",
+        "url": "https://reparacionheladeras.com.ar/index.php",
+        "tools": {
+                "html":true,
+                "css": true,
+                "bootstrap": true,
+                "react": false,
+                "js": true,
+                "php": true,
+                "smarty": true
+            },
+        "desc": "Sitio single-page de empresa reparadora de máquinas frigorificas. Incluye sección de FAQ realizada con Jquery. Intregrado con API whatsapp."
+        
+    },
+
+    {
+        "id": 11,
+        "name": "Francia Travel",
+        "work": "profesional",
+        "img": "images/works/profesional/francia.jpg",
+        "url": "https://franciatravel.com.ar/index.php",
+        "tools": {
+                "html":true,
+                "css": true,
+                "bootstrap": true,
+                "react": false,
+                "js": true,
+                "php": true,
+                "smarty": true
+            },
+        "desc": "Sitio de agencia de viajes con buscador de aéreos y paquetes nacionales e internacionales. Intregrado con Recaptcha V2."
+        
+    },
+
+    {
+        "id": 12,
+        "name": "Monforte",
+        "work": "profesional",
+        "img": "images/works/profesional/monforte.jpg",
+        "url": "https://desarrollos.mkteconsultar.com.ar/monforte/",
+        "tools": {
+                "html":true,
+                "css": true,
+                "bootstrap": true,
+                "react": false,
+                "js": true,
+                "php": true,
+                "smarty": true
+            },
+        "desc": "Sitio de agencia de viajes intregrado con API whatsapp. (En desarrollo)"
+        
+    },
+
+    {
+        "id": 13,
+        "name": "Newtours",
+        "work": "profesional",
+        "img": "images/works/profesional/newtours.jpg",
+        "url": "https://newtoursagency.com/index.php",
+        "tools": {
+                "html":true,
+                "css": true,
+                "bootstrap": true,
+                "react": false,
+                "js": true,
+                "php": true,
+                "smarty": true
+            },
+        "desc": "Sitio de agencia de viajes integrado con API whatsapp, sistema de login para agencias y barra lateral desplegable."
+        
+    },
+
+    {
+        "id": 14,
+        "name": "Zeal",
+        "work": "profesional",
+        "img": "images/works/profesional/zeal.jpg",
+        "url": "https://desarrollos.mkteconsultar.com.ar/zeal/",
+        "tools": {
+                "html":true,
+                "css": true,
+                "bootstrap": true,
+                "react": false,
+                "js": true,
+                "php": true,
+                "smarty": true
+            },
+        "desc": "Sitio de agencia de viajes con integración API whatsapp. (En desarrollo)"
+        
+    },
+
+    {
+        "id": 15,
+        "name": "La Tablita Landing",
+        "work": "profesional",
+        "img": "images/works/profesional/tablita.jpg",
+        "url": "https://desarrollos.mkteconsultar.com.ar/tablita/",
+        "tools": {
+                "html":true,
+                "css": true,
+                "bootstrap": true,
+                "react": false,
+                "js": true,
+                "php": true,
+                "smarty": true
+            },
+        "desc": "Landing para sitio web de La Tablita."
+        
+    },
+
+    {
+        "id": 17,
+        "name": "Online Babel Viajes",
+        "work": "profesional",
+        "img": "images/works/profesional/babel.jpg",
+        "url": "https://online.babelviajes.com/index.php",
+        "tools": {
+                "html":true,
+                "css": true,
+                "bootstrap": true,
+                "react": false,
+                "js": true,
+                "php": true,
+                "smarty": true
+            },
+        "desc": "Sitio alternativo para la agencia de viajes Babel Viajes, con integración de API whatsapp y login para agencias."
+        
+    },
+
+    {
+        "id": 18,
+        "name": "Dharma Viajes",
+        "work": "profesional",
+        "img": "images/works/profesional/dharma.jpg",
+        "url": "https://dharmaviajes.tur.ar//index.php",
+        "tools": {
+                "html":true,
+                "css": true,
+                "bootstrap": true,
+                "react": false,
+                "js": true,
+                "php": true,
+                "smarty": true
+            },
+        "desc": "Sitio de agencia de viajes con buscador de aéreos e integración de buscador iframe de buses. Incluye API whatsapp."
+        
+    },
+
+    {
+        "id": 19,
+        "name": "Animal Travel",
+        "work": "profesional",
+        "img": "images/works/profesional/animal.jpg",
+        "url": "https://viajes.animaltravel.com.ar/index.php",
+        "tools": {
+                "html":true,
+                "css": true,
+                "bootstrap": true,
+                "react": false,
+                "js": true,
+                "php": true,
+                "smarty": true
+            },
+        "desc": "Sitio de agencia de viajes con buscador de aéreos, paquetes y booking. Integrado con API whatsapp y live chat."
+        
+    }
+
+    
+]
