@@ -6,7 +6,7 @@ import Boton from './common/boton.js'
 function Header(props){
     return(
         <div id="header" className="header d-flex">
-            <video id="video"  className='videoheader' src="images/rombos.mp4" autoPlay loop muted />
+            <video id="video"  className='videoheader' src="rombos2.mp4" autoPlay loop muted />
             <div className="d-flex align-items-center position-absolute w-100 header-content ">
                 <div className="container">
                     <div className="row d-flex justify-content-between align-items-center">
