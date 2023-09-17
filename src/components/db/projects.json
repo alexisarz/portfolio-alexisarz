@@ -95,25 +95,6 @@
     },
 
     {
-        "id": 5,
-        "name": "Alexandria Viajes",
-        "work": "profesional",
-        "img": "images/works/profesional/alexa.jpg",
-        "url": "https://alexandriaviajes.com/",
-        "tools": {
-                "html":true,
-                "css": true,
-                "bootstrap": true,
-                "react": false,
-                "js": true,
-                "php": true,
-                "smarty": true
-            },
-        "desc": "Sitio de agencia de viajes. Incluye buscadores de aéreos, autos, booking, asistencia, paquetes y circuitos. Intregrado con API whatsapp y Recaptcha V3."
-        
-    },
-
-    {
         "id": 7,
         "name": "Grupo La Moneda",
         "work": "profesional",
