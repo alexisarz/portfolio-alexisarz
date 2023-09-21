@@ -24,10 +24,10 @@ function Skills(){
                     <div className="col-lg-6 col-xs-12 skill-info my-4 my-lg-auto">
                         <p className="info-section">
                             
-                            Poseo manejo sólido de HTML, CSS, BTSP, JS + Jquery y React.js. A su vez he utilizado templates engines para PHP como Smarty.<br></br>
-                            En cuanto a herramientas complementarias poseo experiencia en manejo de PHP orientado al maquetado, variables y métodos. Inclusive en la configuracion de sitios mediante PhpMyAdmin principalmente para la carga de tablas y archivos SQL, y Cpanel o Plesk para la creación de DB, DB Users y seteo de Cron Jobs, entre otras tareas.<br></br>
-                            En cuanto a los protocolos de transferencia de archivos, tengo habilidad sólida en FTP utilizando programas como FileZilla.<br></br>
-                            También tengo experiencia en Git, GitHub y GitHub Pages.
+                            Manejo sólido de HTML, CSS, BTSP, JS + Jquery y React.js. A su vez, utilización de templates engines para PHP como Smarty.<br></br>
+                            Experiencia en manejo de PHP orientado al maquetado, variables y métodos. Configuración de sitios mediante PhpMyAdmin principalmente para la carga de tablas y archivos SQL, y Cpanel o Plesk para la creación de DB, DB Users y seteo de Cron Jobs, entre otras tareas.<br></br>
+                            Habilidad sólida en FTP utilizando programas como FileZilla.<br></br>
+                            Manejo y experiencia en Git, GitHub y GitHub Pages.
 
                         </p>
                     </div>
@@ -50,7 +50,7 @@ function Skills(){
                                     <li className="d-flex align-items-center">
                                         <h1 className="me-3"><FontAwesomeIcon icon={faJs}/></h1>
                                         <div>
-                                            <Dotbar stars={4} tool={js}/>
+                                            <Dotbar stars={5} tool={js}/>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center">

@@ -18,7 +18,7 @@ function Contact(){
                 <br></br>
                 <br></br>
                 <br></br>
-                <a className="text-light" target="_blank" href="images/CV-Alexis-Zaccaria-2023.pdf"><div className="cv">DESCARGA MI CV</div></a>
+                <a className="text-light" target="_blank" href="images/CV-ALEXIS-ZACCARIA-2023-24.pdf"><div className="cv">DESCARGA MI CV</div></a>
             </div>
         </div>
     )

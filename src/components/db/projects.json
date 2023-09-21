@@ -115,10 +115,10 @@
 
     {
         "id": 16,
-        "name": "HN Corporate",
+        "name": "Alvear Viajes",
         "work": "profesional",
-        "img": "images/works/profesional/hn.jpg",
-        "url": "https://hncorporate.com/index.php",
+        "img": "images/works/profesional/alvear.jpg",
+        "url": "https://alvearviajes.tur.ar/index.php",
         "tools": {
                 "html":true,
                 "css": true,
@@ -128,7 +128,7 @@
                 "php": true,
                 "smarty": true
             },
-        "desc": "Sitio de reservación booking. Incluye sistema de login e interfaz de usuario."
+        "desc": "Sitio e-commerce de viajes turisticos."
         
     },
 
@@ -251,7 +251,7 @@
         "name": "Mapas y Valijas",
         "work": "profesional",
         "img": "images/works/profesional/mapas.jpg",
-        "url": "https://desarrollos.mkteconsultar.com.ar/mapas_valijas/",
+        "url": "https://mapasyvalijas.com.ar/index.php",
         "tools": {
                 "html":true,
                 "css": true,
@@ -261,7 +261,7 @@
                 "php": true,
                 "smarty": true
             },
-        "desc": "Sitio e-commerce de viajes (beta)."
+        "desc": "Sitio e-commerce de viajes turísticos con integración de motores de búsqueda e iframe."
         
     },
 
